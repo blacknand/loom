@@ -51,4 +51,4 @@ This project explores concepts found in:
 
 ---
 
-> **Author's Note:** This is a portfolio project to demonstrate understanding of the hardware/software interface. It is not intended for production use (yet).# loom
+> **Author's Note:** This is a portfolio project to demonstrate understanding of the hardware/software interface. It is not intended for production use (yet).
